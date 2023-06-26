@@ -11,6 +11,7 @@
 - 💫 I’m looking to **work with software and projects that could greatly improve people’s experience in the web.**
 
 - 📫 You can contact me through my e-mail:
+<br>
 **liamotegui@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
