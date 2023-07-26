@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25ydXFxNTZ2aHkycHo4NWNtbjVxZHp6aTI1NWg0cWxlYTVpZzE5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamotegui&label=Profile%20views&color=0e75b6&style=flat" alt="liamotegui" /> </p>
 
-- 🔭 I’m currently working on the final project of a programming course.
+- 🔭 I'm currently looking for a job in the IT world! and in the meantime I work on projects using React and JavaScript.
 
-- 🌱 I’m constantly **learning and exploring new ways to enhance my skills and expand my knowledge of different programming languages.**
+- 🌱 I'm constantly **learning and exploring new ways to enhance my skills and expand my knowledge of different technologies.**
 
-- 💫 I’m looking to **work with software and projects that could greatly improve people’s experience in the web.**
+- 💫 I'm looking to **work with software and projects that could greatly improve people's experience in the web.**
 
 - 📫 You can contact me through my e-mail:    **liamotegui@gmail.com**
 
