@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Liam</h1>
+<h1 align="center">Hi 👋, I'm Liam</h1>
 <h4 align="center">Thank you for taking your time to view my GitHub profile!<h4/>
 <img align="right" alt="Coding" width="350" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ25ydXFxNTZ2aHkycHo4NWNtbjVxZHp6aTI1NWg0cWxlYTVpZzE5diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=liamotegui&label=Profile%20views&color=0e75b6&style=flat" alt="liamotegui" /> </p>
